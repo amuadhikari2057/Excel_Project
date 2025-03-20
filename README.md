@@ -1,1 +1,1 @@
-# Excel_Project
+Conducted comprehensive workforce analysis using advanced Excel functions such as VLOOKUP, XLOOKUP, COUNTIFS, SUMIFS, FILTER, IF, INDEX-MATCH, TEXT, and CONCATENATE. Analyzed salary distribution, tenure trends, and departmental insights to uncover key patterns in employee demographics and compensation. Enhanced reporting with data validation, conditional formatting, and dynamic formulas to support data-driven decision-making.
